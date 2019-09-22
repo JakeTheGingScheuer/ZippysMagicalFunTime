@@ -1,4 +1,4 @@
-# TDD101
+# ZippysMagicalFunTime
 Welcome to the repo for our TDD meetup! This repo contains katas that we will practice. Guests can choose to code in Python, .NET, or Java. We will also have a USB drive that will have the files needed for an install on mac and windows but highly encourage people to come already prepared. The USB Drive will also have a clone of this repo on it in case internet access is an issue.
 
 ### Instructions for getting started with Java
